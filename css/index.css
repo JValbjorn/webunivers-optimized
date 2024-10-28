@@ -1,0 +1,49 @@
+.welcome-message {
+  text-align: center;
+}
+
+.img-links {
+  display: flex;
+  justify-content: center;
+  align-content: space-evenly;
+  padding: 10px;
+  margin: 10px;
+}
+
+.link-img {
+  width: 200px;
+  height: 300px;
+  border-radius: 50% 50% 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 30px;
+}
+
+.overlay-text-one {
+  position: absolute;
+  top: 600px;
+  left: 330px;
+  color: #fff;
+  background-color: var(--primary-color);
+  font-size: 1.4rem;
+  padding: 4px;
+}
+
+.overlay-text-two {
+  position: absolute;
+  top: 600px;
+  left: 590px;
+  color: #fff;
+  background-color: var(--primary-color);
+  font-size: 1.4rem;
+  padding: 4px;
+}
+
+.overlay-text-three {
+  position: absolute;
+  top: 600px;
+  left: 850px;
+  color: #fff;
+  background-color: var(--primary-color);
+  font-size: 1.4rem;
+  padding: 4px;
+}

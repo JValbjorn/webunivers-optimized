@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /get-started-crochet
+Allow: /index
+Allow: /painfree-crafting
+Allow: /yarn-guide
+
+Sitemap: https://webunivers.jvalbjorn.dk/sitemap.xml
